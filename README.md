@@ -2,7 +2,7 @@
 - 👀 Me interesan mucho la electronica y la programacion
 - 🌱 Actualmente estoy aprendiendo
 - 💞️ Siempre estoy aprendiendo
-- 📫 Podeis contactarme con sergiowaltter@gmail.com
+- 📫 Podeis contactarme con
 
 <!---
 SergioWltterRom/SergioWltterRom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
